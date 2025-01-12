@@ -1,0 +1,9 @@
+{
+  "runs-on": "ubuntu-latest",
+  "useCompilerFolder": false,
+  "templateUrl": "https://github.com/businesscentralapps/tmpQI60cu-AppSource@main",
+  "shell": "pwsh",
+  "type": "AppSource App",
+  "doNotPublishApps": false,
+  "MicrosoftTelemetryConnectionString": ""
+}
